@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvnatu" alt="atharvnatu" /></a> </p>
 
-- 🌱 I’m currently learning **OpenGL, CUDA, DirectX**
+- 🌱 I’m currently learning **OpenGL, DirectX, CUDA, OpenCL**
 
 - 📫 How to reach me **natuatharv21@gmail.com**
 
