@@ -1,5 +1,5 @@
 # 💫 Hi, I am Atharv Natu
-🔭 I’m currently working on - <br> - DirectX 11<br> - OpenGL<br> - OpenGLES<br> - CUDA<br> - OpenCL
+🔭 I’m currently working on - <br> - DirectX 11<br> - OpenGL<br> - OpenGL ES<br> - CUDA<br> - OpenCL
 
 
 # 💻 Tech Stack:
