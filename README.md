@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on - <br> - DirectX 11<br> - OpenGL<br> - OpenGL ES<br> - CUDA<br> - OpenCL
+🔭 I’m currently working on - <br> - C1<br> - C++<br> - DSA<br> - CUDA<br> - OpenCL<br> - OpenGL<br> - DirectX 11
 
 
 ## 🌐 Socials:
