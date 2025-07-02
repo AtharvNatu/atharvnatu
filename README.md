@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on - <br> - C, C++<br> - Qt<br> - CUDA<br> - OpenCL<br> - OpenGL<br> - DirectX 11<br> - Vulkan<br?
+🔭 I’m currently working on - <br> - C, C++<br> - Qt<br> - CUDA<br> - OpenCL<br> - OpenGL<br> - DirectX 11<br> - Vulkan<br>
 
 
 ## 🌐 Socials:
